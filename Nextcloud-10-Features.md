@@ -34,6 +34,7 @@ It is already possible to generate a device specific password and enter that in 
 
 * Ability to create federated shares with CRUDS permissions: [owncloud/core#23918](https://github.com/owncloud/core/pull/23918)
 * Resharing a federated share does not create a chain of shares any more but connects the share owner's server to the reshare recipient: [owncloud/core#24603](https://github.com/owncloud/core/pull/24603)
+* transform public links into real federated shares [nextcloud/server#379](https://github.com/nextcloud/server/pull/379)
 
 ### External storage
 
