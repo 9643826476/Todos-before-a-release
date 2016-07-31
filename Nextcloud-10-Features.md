@@ -4,6 +4,10 @@
 * Update notifications in client via API - You can now be notified in your desktop client about available updates for core and apps. The notifications are made available via the notifications API. [owncloud/core#24444](https://github.com/owncloud/core/pull/24444)
 * Multi bucket support for primary objectstore integration [owncloud/core#24760](https://github.com/owncloud/core/pull/24760)
 
+### Security
+
+* brute force protection [nextcloud/server#479](https://github.com/nextcloud/server/pull/479)
+
 ### Authentication
 
 * Pluggable authentication: plugin system that supports different authentication schemes: [owncloud/core#23456](https://github.com/owncloud/core/issues/23458)
