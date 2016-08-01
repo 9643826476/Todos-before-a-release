@@ -3,10 +3,14 @@
 * Background jobs (cron) can now run in parallel [owncloud/core#24696](https://github.com/owncloud/core/issues/24696)
 * Update notifications in client via API - You can now be notified in your desktop client about available updates for core and apps. The notifications are made available via the notifications API. [owncloud/core#24444](https://github.com/owncloud/core/pull/24444)
 * Multi bucket support for primary objectstore integration [owncloud/core#24760](https://github.com/owncloud/core/pull/24760)
+* [Automated Tagging of files](https://github.com/owncloud/automated_tagging): An app for Nextcloud that automatically assigns tags to newly uploaded files based on some conditions
+* [Retention of files](https://github.com/nextcloud/files_retention): App to delete files after N days
+
 
 ### Security
 
 * brute force protection [nextcloud/server#479](https://github.com/nextcloud/server/pull/479)
+* [Advanced File Access Control](https://github.com/nextcloud/files_accesscontrol)
 
 ### Authentication
 
