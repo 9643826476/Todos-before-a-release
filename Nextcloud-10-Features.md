@@ -5,6 +5,7 @@
 * Multi bucket support for primary objectstore integration [owncloud/core#24760](https://github.com/owncloud/core/pull/24760)
 * [Automated Tagging of files](https://github.com/owncloud/automated_tagging): An app for Nextcloud that automatically assigns tags to newly uploaded files based on some conditions
 * [Retention of files](https://github.com/nextcloud/files_retention): App to delete files after N days
+* [Server monitoring](https://github.com/nextcloud/serverinfo)
 
 
 ### Security
