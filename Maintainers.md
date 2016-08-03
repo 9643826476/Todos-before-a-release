@@ -13,6 +13,7 @@
 | Files locking | [@icewind1991] |
 | Localization / Translations / L10N | [@MorrisJobke] |
 | Security | [@LukasReschke] |
+| Tests & Continuous Integration | [@MorrisJobke] |
 
 ## Apps
 
