@@ -14,6 +14,7 @@
 | Localization / Translations / L10N | [@MorrisJobke] |
 | Security | [@LukasReschke] |
 | Tests & Continuous Integration | [@MorrisJobke] |
+| Previews | [@rullzer], ownCloud ([@georgehrke]), [@oparoz] |
 
 ## Apps
 
@@ -53,7 +54,7 @@
 | [user_saml](https://github.com/nextcloud/user_saml) | [@LukasReschke] |
 | [vm](https://github.com/nextcloud/vm) | [@enoch85] |
 | [workflowengine](https://github.com/nextcloud/server/tree/master/apps/workflowengine) | [@MorrisJobke], [@nickvergessen] |
-
+| [snap](https://github.com/nextcloud/nextcloud-snap) | [@oparoz], Canonical ([@kyrofa]) |
 
 [@BernhardPosselt]: https://github.com/BernhardPosselt
 [@blizzz]: https://github.com/blizzz
@@ -75,3 +76,4 @@
 [@rullzer]: https://github.com/rullzer
 [@schiessle]: https://github.com/schiessle
 [@tomneedham]: https://github.com/tomneedham
+[@kyrofa]: https://github.com/kyrofa
