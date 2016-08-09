@@ -3,8 +3,18 @@
          | release date   | end of life | current version         | next version
 :-------:|---------------:|------------:|------------------------:|---------------------:
 **11**   | End of 2016    | *-*         | *-*                     | *-*
-**10**   | 2016-07-21     | *-*         | *-*                     | *10 (week of 2016-08-22)*
+**10**   | 2016-07-21     | *-*         | *-*                     | *10.0.0 (2016-08-22 to 27)*
 **9**    | 2016-03-08     | *-*         | **9.0.53** (2016-07-18) | *9.0.54 (...)*
+
+### Nextcloud 10
+
+Version                     | Date
+----------------------------|-----------
+beta                        | 2016-07-21
+rc1                         | 2016-08-10
+Public announcement         | 2017-08-22 to 27
+
+--
 
 ### Historical versions (before the fork)
          | release date   | end of life | current version         | next version
