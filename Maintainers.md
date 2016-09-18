@@ -23,7 +23,7 @@
 | [activity](https://github.com/nextcloud/activity) | **New maintainer needed**, [@nickvergessen] |
 | [admin_audit](https://github.com/nextcloud/server/tree/master/apps/admin_audit) | [@schiessle] |
 | [announcementcenter](https://github.com/nextcloud/announcementcenter) | [@nickvergessen] |
-| [calendar](https://github.com/owncloud/calendar) | ownCloud ([@georgehrke]) |
+| [calendar](https://github.com/nextcloud/calendar) | [@georgehrke] [@raghunayyar] [@tcitworld] |
 | [comments](https://github.com/nextcloud/server/tree/master/apps/comments) | [@blizzz] |
 | [contacts](https://github.com/owncloud/contacts) | **New maintainer needed**, ownCloud ([@Henni]) |
 | [dav](https://github.com/nextcloud/server/tree/master/apps/dav) (CalDAV, CardDAV, WebDAV) | ownCloud ([@DeepDiver1975]) |
