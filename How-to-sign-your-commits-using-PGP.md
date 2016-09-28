@@ -1,13 +1,13 @@
 # Git signing on Windows
 
-# Prerequisites
+## Prerequisites
 
 1. Install [gpg4win](https://www.gpg4win.org/)
 1. Install [Git](https://git-scm.com/download/win)
 
 *Note: Make sure to install the Git bash component* 
 
-# PGP
+## PGP
 
 Open a Git Bash shell window and check if your key is available:
 
@@ -39,7 +39,7 @@ Answer `5`: I trust ultimately and confirm with `y`.
 
 *Note: You can do all of this from the Kleopatra app if you prefer*
 
-# Git
+## Git
 
 Add your full name and email address
 
@@ -79,7 +79,7 @@ git config --global user.signingkey NCB0X317
 
 That's it! You should now be able to sign your commits using your GPG key.
 
-# Testing
+## Testing
 
 Create a test commit from your IDE or the command line.
 You should see a window poping up, asking for your password.
