@@ -29,7 +29,7 @@ gpg:       secret keys read: 1
 gpg:   secret keys imported: 1
 ```
 
-Trust the key, Type the following:
+Trust the key by typing the following:
 
 ```bash
 $  gpg --edit-key "Nextcloud Packager" trust quit
