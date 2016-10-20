@@ -45,6 +45,7 @@
 | [notifications](https://github.com/nextcloud/notifications) | [@nickvergessen] |
 | [news](https://github.com/nextcloud/news) | [@cosenal], [@BernhardPosselt] |
 | [password_policy](https://github.com/nextcloud/password_policy) | [@schiessle], [@LukasReschke] |
+| [serverinfo](https://github.com/nextcloud/serverinfo) | [@schiessle] |
 | [systemtags](https://github.com/nextcloud/server/tree/master/apps/systemtags) | ownCloud ([@PVince81]) |
 | [templateeditor](https://github.com/nextcloud/templateeditor) | ownCloud ([@PVince81]) |
 | [theming](https://github.com/nextcloud/server/tree/master/apps/theming) | [@juliushaertl] |
