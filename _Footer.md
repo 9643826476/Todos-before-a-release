@@ -1,6 +1,6 @@
 # [Discover our Enterprise Support subscriptions](https://nextcloud.com/enterprise/)
 
-An enterprise subscription provides you the confidence of knowing that your Nextcloud deployment is backed by the best available technical expertise and with the features you need for your organization
+## An enterprise subscription provides you the confidence of knowing that your Nextcloud deployment is backed by the best available technical expertise and with the features you need for your organization
 
 # [Build your private cloud at home with the Nextcloud Box!](https://nextcloud.com/box)
 
