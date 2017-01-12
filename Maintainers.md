@@ -14,7 +14,7 @@
 | Localization / Translations / L10N | [@MorrisJobke] |
 | Security | [@LukasReschke] |
 | Tests & Continuous Integration | [@MorrisJobke] |
-| Previews | [@rullzer], ownCloud ([@georgehrke]), [@oparoz] |
+| Previews | [@rullzer], [@georgehrke], [@oparoz] |
 
 ## Apps
 
@@ -25,7 +25,7 @@
 | [announcementcenter](https://github.com/nextcloud/announcementcenter) | [@nickvergessen] |
 | [calendar](https://github.com/nextcloud/calendar) | [@georgehrke], [@raghunayyar], [@tcitworld] |
 | [comments](https://github.com/nextcloud/server/tree/master/apps/comments) | [@blizzz] |
-| [contacts](https://github.com/owncloud/contacts) | **New maintainer needed**, ownCloud ([@Henni]) |
+| [contacts](https://github.com/owncloud/contacts) | **New maintainer needed**, [@Henni] |
 | [dav](https://github.com/nextcloud/server/tree/master/apps/dav) (CalDAV, CardDAV, WebDAV) | ownCloud ([@DeepDiver1975]) |
 | [encryption](https://github.com/nextcloud/server/tree/master/apps/encryption) | [@schiessle] |
 | [federatedfilesharing](https://github.com/nextcloud/server/tree/master/apps/federatedfilesharing) | [@schiessle] |
@@ -36,7 +36,7 @@
 | [files_external](https://github.com/nextcloud/server/tree/master/apps/files_external) | [@icewind1991] |
 | [files_pdfviewer](https://github.com/nextcloud/files_pdfviewer) | [@LukasReschke] |
 | [files_sharing](https://github.com/nextcloud/server/tree/master/apps/files_sharing) | [@rullzer], [@schiessle] |
-| [files_texteditor](https://github.com/nextcloud/files_texteditor)  | ownCloud ([@tomneedham]) |
+| [files_texteditor](https://github.com/nextcloud/files_texteditor) | ownCloud ([@tomneedham]) |
 | [files_trashbin](https://github.com/nextcloud/server/tree/master/apps/files_trashbin) (Deleted files) | [@schiessle] |
 | [files_versions](https://github.com/nextcloud/server/tree/master/apps/files_versions) | [@schiessle] |
 | [firstrunwizard](https://github.com/nextcloud/firstrunwizard) | [@jancborchardt] |
