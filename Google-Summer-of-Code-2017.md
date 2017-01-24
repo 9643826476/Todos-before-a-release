@@ -31,6 +31,7 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 * Jan-Christop Borchardt ([@jancborchardt](https://github.com/jancborchardt))
 * Mario Danic ([@mario](https://github.com/mario))
 * Tobias Kaminsky ([@tobiaskaminsky](https://github.com/tobiaskaminsky)) [Android]
+* Andy Scherzinger ([@AndyScherzinger](https://github.com/AndyScherzinger)) [Android]
 
 (add yourself here please)
 
