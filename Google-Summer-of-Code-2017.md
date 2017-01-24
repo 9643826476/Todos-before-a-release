@@ -25,8 +25,11 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 
 * Jos Poortvliet ([@jospoortvliet](https://github.com/jospoortvliet))
 * Jan-Christop Borchardt ([@jancborchardt](https://github.com/jancborchardt))
+* Mario Danic ([@mario](https://github.com/mario))
 
 ## Nextcloud Mentors
 * Jan-Christop Borchardt ([@jancborchardt](https://github.com/jancborchardt))
+* Mario Danic ([@mario](https://github.com/mario))
+
 (add yourself here please)
 
