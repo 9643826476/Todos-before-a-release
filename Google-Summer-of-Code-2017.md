@@ -24,11 +24,11 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 ## Nextcloud coordinators
 
 * Jos Poortvliet ([@jospoortvliet](https://github.com/jospoortvliet))
-* Jan-Christop Borchardt ([@jancborchardt](https://github.com/jancborchardt))
+* Jan-Christoph Borchardt ([@jancborchardt](https://github.com/jancborchardt))
 * Mario Danic ([@mario](https://github.com/mario))
 
 ## Nextcloud Mentors
-* Jan-Christop Borchardt ([@jancborchardt](https://github.com/jancborchardt))
+* Jan-Christoph Borchardt ([@jancborchardt](https://github.com/jancborchardt))
 * Mario Danic ([@mario](https://github.com/mario))
 * Tobias Kaminsky ([@tobiaskaminsky](https://github.com/tobiaskaminsky)) [Android]
 * Andy Scherzinger ([@AndyScherzinger](https://github.com/AndyScherzinger)) [Android]
