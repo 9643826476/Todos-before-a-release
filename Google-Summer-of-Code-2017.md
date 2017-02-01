@@ -6,17 +6,18 @@ We will prefer students who have shown to have the skills needed to contribute t
 ## Project Ideas
 Here we'd like to put a list of projects we suggest (GSoC projects are restricted to coding): 
 
-### Android
-* Make the Android app Great Again for the First Time
-
 ### Server
-* Make the Server Great Again for the First Time
+* ...
+
+### Android
+* ...
 
 ### iOS
-* Make the iOS app Great Again for the First Time
+* ...
 
 ### Apps
-* Make the Passman/Gallery/... app Great Again for the First Time
+* [📞 Video calls / Spreed](https://github.com/nextcloud/spreed) (Mentor: [@nickvergessen](https://github.com/nickvergessen))
+* Work on server apps: Passman, Gallery, Mail, ...
 
 
 **__We do want to encouraged you to come up with your own project ideas and discuss them with potential mentors. Please join us on IRC or on our [forums](https://help.nextcloud.com) to discuss ideas.__**
@@ -28,10 +29,11 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 * Mario Danic ([@mario](https://github.com/mario))
 
 ## Nextcloud Mentors
-* Jan-Christoph Borchardt ([@jancborchardt](https://github.com/jancborchardt))
-* Mario Danic ([@mario](https://github.com/mario))
-* Tobias Kaminsky ([@tobiaskaminsky](https://github.com/tobiaskaminsky)) [Android]
 * Andy Scherzinger ([@AndyScherzinger](https://github.com/AndyScherzinger)) [Android]
+* Jan-Christoph Borchardt ([@jancborchardt](https://github.com/jancborchardt))
+* Joas Schilling ([@nickvergessen](https://github.com/nickvergessen)) [Server, Server Apps]
+* Mario Danic ([@mario](https://github.com/mario)) [Android]
+* Tobias Kaminsky ([@tobiaskaminsky](https://github.com/tobiaskaminsky)) [Android]
 
 (add yourself here please)
 
