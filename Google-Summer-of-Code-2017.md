@@ -10,7 +10,9 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 * Desktop sync client in Python and QT (Mentor: [@mario](https://github.com/mario))
 
 ### Server
-* ...
+* CI: Automated performance measurements and comparison
+* User data export/migration (similar to Google Takeout)
+* Federated sharing for calendars/contacts
 
 ### Android
 * ...
@@ -22,6 +24,9 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 * [📞 Video calls / Spreed](https://github.com/nextcloud/spreed) (Mentor: [@nickvergessen](https://github.com/nickvergessen))
 * Work on server apps: Passman, Gallery, Mail, ...
 
+
+### Other
+* Automated builds of clients matching settings of the theming app
 
 **__We do want to encouraged you to come up with your own project ideas and discuss them with potential mentors. Please join us on IRC or on our [forums](https://help.nextcloud.com) to discuss ideas.__**
 
