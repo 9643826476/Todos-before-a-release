@@ -6,6 +6,9 @@ We will prefer students who have shown to have the skills needed to contribute t
 ## Project Ideas
 Here we'd like to put a list of projects we suggest (GSoC projects are restricted to coding): 
 
+### Desktop
+* Desktop sync client in Python and QT (Mentor: [@mario](https://github.com/mario))
+
 ### Server
 * ...
 
@@ -32,7 +35,7 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 * Andy Scherzinger ([@AndyScherzinger](https://github.com/AndyScherzinger)) [Android]
 * Jan-Christoph Borchardt ([@jancborchardt](https://github.com/jancborchardt))
 * Joas Schilling ([@nickvergessen](https://github.com/nickvergessen)) [Server, Server Apps]
-* Mario Danic ([@mario](https://github.com/mario)) [Android]
+* Mario Danic ([@mario](https://github.com/mario)) [Android, Python desktop client]
 * Tobias Kaminsky ([@tobiaskaminsky](https://github.com/tobiaskaminsky)) [Android]
 
 (add yourself here please)
