@@ -15,7 +15,7 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 * Federated sharing for calendars/contacts
 
 ### Android
-* ...
+* Keyboard controls: [#1444](https://github.com/nextcloud/server/issues/1444)
 
 ### iOS
 * ...
