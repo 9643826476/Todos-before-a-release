@@ -13,6 +13,7 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 * CI: Automated performance measurements and comparison
 * User data export/migration (similar to Google Takeout)
 * Federated sharing for calendars/contacts
+* IPFS integration (Distributed, P2P backups with a CDN-like benefit. See the demo at: https://ipfs.io Github issue: https://github.com/nextcloud/server/issues/385 forums:https://help.nextcloud.com/t/p2p-seeded-file-sync/277/9 and /)
 
 ### Android
 
@@ -28,7 +29,7 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 ### Other
 * Automated builds of clients matching settings of the theming app
 
-**__We do want to encouraged you to come up with your own project ideas and discuss them with potential mentors. Please join us on IRC or on our [forums](https://help.nextcloud.com) to discuss ideas.__**
+**__We do want to encourage you to come up with your own project ideas and discuss them with potential mentors. Please join us on IRC or on our [forums](https://help.nextcloud.com) to discuss ideas.__**
 
 ## Nextcloud coordinators
 
