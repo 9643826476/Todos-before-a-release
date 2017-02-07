@@ -10,11 +10,10 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 * Desktop sync client in Python and QT (Mentor: [@mario](https://github.com/mario))
 
 ### Server
-* CI: Automated performance measurements and comparison
-* QA testing plattform https://help.nextcloud.com/t/grow-the-qa-team-and-offer-tools-for-end-users/323/3
 * User data export/migration (similar to Google Takeout)
-* Federated sharing for calendars/contacts
+* Federated sharing for calendars/contacts [Issue](https://github.com/nextcloud/server/issues/1440)
 * [IPFS](https://ipfs.io) integration (Distributed, P2P backups with a CDN-like benefit. [Demo] (https://www.youtube.com/watch?v=8CMxDNuuAiQ), [Github issue]( https://github.com/nextcloud/server/issues/385 ) and [forum thread](https://help.nextcloud.com/t/p2p-seeded-file-sync/277/9 ))
+* CI: Automated performance measurements and comparison
 
 ### Android
 
@@ -29,6 +28,7 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 
 ### Other
 * Automated builds of clients matching settings of the theming app
+* QA testing plattform [forum thread](https://help.nextcloud.com/t/grow-the-qa-team-and-offer-tools-for-end-users/323/3)
 
 **__We do want to encourage you to come up with your own project ideas and discuss them with potential mentors. Please join us on IRC or on our [forums](https://help.nextcloud.com) to discuss ideas.__**
 
