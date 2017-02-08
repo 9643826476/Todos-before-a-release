@@ -24,7 +24,7 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 * Unify keyboard controls in files, contacts, calendar, etc: [#1444](https://github.com/nextcloud/server/issues/1444) (Mentor: [@eppfel](https://epp.design))
 * [📞 Video calls / Spreed](https://github.com/nextcloud/spreed) (Mentor: [@nickvergessen](https://github.com/nickvergessen))
 * Work on server apps: Passman, Gallery, Mail, ...
-
+* Extending PHP XMPP server from [chat (JSXC)](https://github.com/jsxc/jsxc.nextcloud)
 
 ### Other
 * Automated builds of clients matching settings of the theming app
