@@ -1,4 +1,4 @@
-This is a rough list of topics being worked on for the next release of Nextcloud
+This is a rough list of topics being worked on for the release of Nextcloud 12
 https://github.com/nextcloud/server/issues/2672
 
 Next to each request is the name of the person who is in charge of delivering it.
