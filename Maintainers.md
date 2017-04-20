@@ -81,3 +81,5 @@
 [@kyrofa]: https://github.com/kyrofa
 [@raghunayyar]: https://github.com/raghunayyar
 [@tcitworld]: https://github.com/tcitworld
+[@timar]: https://github.com/timar
+[@pranavk]: https://github.com/pranavk
