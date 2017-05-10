@@ -4,6 +4,7 @@ Install https://github.com/jubos/fake-s3 and start it:
 sudo gem install fakes3
 mkdir /tmp/s3
 fakes3 -r /tmp/s3 -p 4567
+```
 
 In there now a subfolder per bucket is created and every object is stored inside a folder in there.
 
