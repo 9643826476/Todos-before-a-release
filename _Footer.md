@@ -1,11 +1,16 @@
-# [Join our community](https://nextcloud.com/contribute/)
+[Nextcloud](https://nextcloud.com) is an open source project and an open company. That means it is yours to make a difference!
 
-## Nextcloud is an open source project and an open company. That means it is yours to make a difference!
+## Learn more and join our community
 
-# [Build your private cloud at home with the Nextcloud Box!](https://nextcloud.com/box)
+- [Get Nextcloud](https://nextcloud.com/install/)
+- [Read the Documentation](https://docs.nextcloud.com/)
+- [Get Support](https://nextcloud.com/support/)
+- [Contribute](https://nextcloud.com/contribute/)
 
-[![The Nextcloud Box!](https://nextcloud.com/wp-content/themes/next/assets/img/box/box-perspective.png)](https://nextcloud.com/box)
+Enterprise? Public Sector or Education user? You may want to have a look into our [**Enterprise Support Subscriptions**](https://nextcloud.com/enterprise/).
 
-# [Need Support?](https://nextcloud.com/support/)
+## Get in touch
 
-## Find help in our forums, IRC and other channels.
+- [:clipboard: Forum](https://help.nextcloud.com)
+- [:busts_in_silhouette: Facebook](https://facebook.com/Nextclouders)
+- [:hatching_chick: Twitter](https://twitter.com/Nextclouders)
