@@ -58,14 +58,36 @@ We have a lot of languages. The no. will be impressive, but the state of complet
 ...
 
 # Information for German Team Members (in german)
-## Wies zwei Sprachen?
+## Wieso zwei Sprachen?
+Für die deutsche Sprache gibt es zwei Übersetzungen bei Transifex.
+
+Die Language-Codes mit deren Zuordnung wurden vom Nextcloud-Projekt festgelegt.
+
+### Die formelle Übersetzung (Sie-Form).
+
+Link: https://www.transifex.com/nextcloud/nextcloud/language/de_DE/
+
+Language code: de_DE
+
+### Die informelle Übersetzung (Du-Form).
+
+Link: https://www.transifex.com/nextcloud/nextcloud/language/de/
+
+Language code: de
+
+## Infos für Reviewer
 
 ...
 
-## Infos für Reviewer
+## Infos für Übersetzer
+
+Wenn ein String übersetzt wird, dann immer beide Sprachen pflegen. Das führt zu einem konsistenten Übersetzungsgrad und spart die Nacharbeit.
 
 ...
 
 ## Angleichen der Übersetzungen
 
 ...
+
+## Besonderheiten für die iOS-App
+In der Apple-Welt wird die Sie-Form empfohlen und es kann nur eine deutsche Übersetzung für die Sprachauswahl "deutsch" herangezogen werden. Das App-Team hat entschieden die Sie-Form zu verwenden. Daher ist eine Übersetzung für die Du-Form nicht notwendig. Daher wird bei allen Strings der Du-Form der String "" eingetragen. Vorteil: Auch Personen die selten an den Übersetzungen mitarbeiten verschwenden keine Energie für Nicht-Verwendete Übersetzungen.
