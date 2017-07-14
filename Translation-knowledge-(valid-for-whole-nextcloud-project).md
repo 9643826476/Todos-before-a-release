@@ -2,9 +2,15 @@
 Instead of maintaining an own translation server like pootle Nextcloud is using Transifex to achieve translation in many languages.
 Transifex offers free service for open source projects.
 
-Just create an account and apply to join Nextcloud organization.
+Are you interested in translating Nextcloud?
+
+Just create an account and apply to join Nextcloud organization. You are welcome!
 
 Once you joined our organization you can apply to join your target language. There are already more than 70 languages available. Feel free to request a new one if your native language is missing.
+
+Best way is to start translating some strings. Get an overwiew about already existing translations. Check features and basic function of Transifex.
+
+If you get caught by l18n stuff and you take care about your language you can think about beeing a reviewer. Even more fun :-)
 
 # General information about Transifex
 ## How to discuss at Transifex?
