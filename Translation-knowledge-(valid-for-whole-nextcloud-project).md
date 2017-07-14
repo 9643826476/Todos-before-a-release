@@ -26,6 +26,15 @@ You could send private message to other members. Inbox and outbox are separate a
 To unterstand roles and their respective permissions see https://docs.transifex.com/teams/understanding-user-roles/
 
 # Information for Translators
+## Basic knowledge to start
+You have joined a language team. Do not hesitate to contact persons of it.
+
+Newbie information: Whenever translating parts of a single resource please do not just translate a single string without looking at already translated strings. Most resources have a common wording and you should follow it. If you have a different position you should discuss first before changing strings.
+
+Translate easy ones before trying complex ones.
+
+Do not use translate.google.com to just enter and copy result to Transifex.
+
 ## When to comment a string at Transifex?
 
 If you are struggling to translate a string feel free to add a comment including your question.
