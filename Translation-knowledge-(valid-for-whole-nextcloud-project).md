@@ -78,6 +78,9 @@ In Deiner Nextcloud kann jeder Benutzer seine Sprache in den persönlichen Einst
 
 Die Language-Codes mit deren Zuordnung wurden vom Nextcloud-Projekt festgelegt.
 
+Habt Ihr generelle Fragen zur Übersetzung der deutschen Sprachen? Dann schaut hier:
+ https://help.nextcloud.com/t/german-translation-endless-thread-in-german/7181
+
 ### Die formelle Übersetzung (Sie-Form).
 
 Link: https://www.transifex.com/nextcloud/nextcloud/language/de_DE/
@@ -91,8 +94,12 @@ Link: https://www.transifex.com/nextcloud/nextcloud/language/de/
 Language code: de
 
 ## Infos für Reviewer
+Immer an die beiden Sprachen denken.
 
-...
+Die sachliche Formulierung anwenden, nicht die persönliche:
+
+Beispiele ...
+
 
 ## Infos für Übersetzer
 
@@ -107,9 +114,9 @@ Wenn ein String übersetzt wird, dann immer beide Sprachen pflegen. Das führt z
 ### iOS-App
 In der Apple-Welt wird die Sie-Form empfohlen und es kann nur eine deutsche Übersetzung für die Sprachauswahl "deutsch" herangezogen werden. Das App-Team hat entschieden die Sie-Form zu verwenden. Daher ist eine Übersetzung für die Du-Form nicht notwendig. Daher wird bei allen Strings der Du-Form der String "" eingetragen. Vorteil: Auch Personen die selten an den Übersetzungen mitarbeiten verschwenden keine Energie für Nicht-Verwendete Übersetzungen.
 
-### Besonderheiten für die Windows Phone-App
+### Windows Phone-App
 Auch hier wird in Zukunft nur eine Übersetzung benötigt. Klärung erfolgt noch.
 ...
 
-### Besonderheiten für die Android-App
+### Android-App
 ... fehlt noch
