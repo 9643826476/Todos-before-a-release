@@ -13,6 +13,11 @@ Best way is to start translating some strings. Get an overwiew about already exi
 If you get caught by l18n stuff and you take care about your language you can think about beeing a reviewer. Even more fun :-)
 
 # General information about Transifex
+## Language teams
+Each language is organized in a team.
+
+You have organizers, reviewers and most important translators. You are the engine of the car. 
+
 ## How to discuss at Transifex?
 
 You can discuss for each string. Who ever reads it can respond. There is no way to subscribe to any discussion as long as somebody marks discussion as issue.
