@@ -29,9 +29,14 @@ What to do if I want to change a source string?
 ...
 
 # Information for German Team Members (in german)
-## Why to languages?
+## Wies zwei Sprachen?
+
 ...
+
 ## Infos für Reviewer
+
 ...
+
 ## Angleichen der Übersetzungen
+
 ...
