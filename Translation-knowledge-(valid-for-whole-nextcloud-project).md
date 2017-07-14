@@ -91,3 +91,8 @@ Wenn ein String übersetzt wird, dann immer beide Sprachen pflegen. Das führt z
 
 ## Besonderheiten für die iOS-App
 In der Apple-Welt wird die Sie-Form empfohlen und es kann nur eine deutsche Übersetzung für die Sprachauswahl "deutsch" herangezogen werden. Das App-Team hat entschieden die Sie-Form zu verwenden. Daher ist eine Übersetzung für die Du-Form nicht notwendig. Daher wird bei allen Strings der Du-Form der String "" eingetragen. Vorteil: Auch Personen die selten an den Übersetzungen mitarbeiten verschwenden keine Energie für Nicht-Verwendete Übersetzungen.
+
+## Besonderheiten für die Windows Phone-App
+
+Auch hier wird in Zukunft nur eine Übersetzung benötigt. Klärung erfolgt noch.
+...
