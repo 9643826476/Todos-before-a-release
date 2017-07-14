@@ -67,7 +67,9 @@ We have a lot of languages. The no. will be impressive, but the state of complet
 
 # Information for German Team Members (in german)
 ## Wieso zwei Sprachen?
-Für die deutsche Sprache gibt es zwei Übersetzungen bei Transifex.
+Für die deutsche Sprache gibt es zwei Übersetzungen bei Transifex. Diesen Luxus und Aufwand gönnen sich aktuell nur die Deutschen. Die Mitgliederzahl ist stark und der Übersetzungsgrad hoch.
+
+In Deiner Nextcloud kann jeder Benutzer seine Sprache in den persönlichen Einstellungen vornehmen (nicht global).
 
 Die Language-Codes mit deren Zuordnung wurden vom Nextcloud-Projekt festgelegt.
 
@@ -96,13 +98,13 @@ Wenn ein String übersetzt wird, dann immer beide Sprachen pflegen. Das führt z
 ## Angleichen der Übersetzungen
 
 ...
-
-## Besonderheiten für die iOS-App
+## Besonderheiten
+### iOS-App
 In der Apple-Welt wird die Sie-Form empfohlen und es kann nur eine deutsche Übersetzung für die Sprachauswahl "deutsch" herangezogen werden. Das App-Team hat entschieden die Sie-Form zu verwenden. Daher ist eine Übersetzung für die Du-Form nicht notwendig. Daher wird bei allen Strings der Du-Form der String "" eingetragen. Vorteil: Auch Personen die selten an den Übersetzungen mitarbeiten verschwenden keine Energie für Nicht-Verwendete Übersetzungen.
 
-## Besonderheiten für die Windows Phone-App
-
+### Besonderheiten für die Windows Phone-App
 Auch hier wird in Zukunft nur eine Übersetzung benötigt. Klärung erfolgt noch.
 ...
 
-## Besonderheiten für die Android-App
+### Besonderheiten für die Android-App
+... fehlt noch
