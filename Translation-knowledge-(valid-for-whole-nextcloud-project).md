@@ -104,3 +104,5 @@ In der Apple-Welt wird die Sie-Form empfohlen und es kann nur eine deutsche Übe
 
 Auch hier wird in Zukunft nur eine Übersetzung benötigt. Klärung erfolgt noch.
 ...
+
+## Besonderheiten für die Android-App
