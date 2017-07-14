@@ -1,3 +1,6 @@
+# Nextcloud is available in many languages. How is that done?
+...
+
 # General information about Transifex
 How to discuss at Transifex
 
