@@ -6,6 +6,9 @@ Welcome to the server wiki!
 * [Next release of Nextcloud](Next-release-of-Nextcloud)
 * [Maintenance and Release Schedule](https://github.com/nextcloud/server/wiki/Maintenance-and-Release-Schedule)
 
+## Want to see Nextcloud in your native language?
+* https://github.com/nextcloud/server/wiki/Translation-knowledge-(valid-for-whole-nextcloud-project)
+
 ## Maintainers
 
 * [List of Maintainers](https://github.com/nextcloud/server/wiki/Maintainers)
