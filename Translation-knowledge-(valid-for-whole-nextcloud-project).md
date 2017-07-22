@@ -103,13 +103,18 @@ Beispiele ...
 
 ## Infos für Übersetzer
 
+(Übersicht verschaffen, Begriffe nachschlagen, andere Ansätze in help.nextcloud.com diskutieren: Link)
+
+
 Wenn ein String übersetzt wird, dann immer beide Sprachen pflegen. Das führt zu einem konsistenten Übersetzungsgrad und spart die Nacharbeit.
 
-...
+Details im nächsten Absatz.
 
 ## Angleichen der Übersetzungen
+Das pflegen von zwei deutschen Übersetzung ist aufwendig. Damit die Übersetzungen nicht auseinander laufen, sollten immer beide Sprachen übersetzt werden. Praktisch bedeutet dies, das ein Übersetzer nicht nur in der von ihm bevorzugten Form (Du oder Sie) übersetzen sollte, sondern auch die andere Form pflegen soll.
 
-...
+Aktuell gibt es einige Unterschiede. Die Reviewer kennen das, wenn sie beide Sprachen zeitgleich reviewen.
+
 ## Besonderheiten
 ### iOS-App
 In der Apple-Welt wird die Sie-Form empfohlen und es kann nur eine deutsche Übersetzung für die Sprachauswahl "deutsch" herangezogen werden. Das App-Team hat entschieden die Sie-Form zu verwenden. Daher ist eine Übersetzung für die Du-Form nicht notwendig. Daher wird bei allen Strings der Du-Form der String "" eingetragen. Vorteil: Auch Personen die selten an den Übersetzungen mitarbeiten verschwenden keine Energie für Nicht-Verwendete Übersetzungen.
