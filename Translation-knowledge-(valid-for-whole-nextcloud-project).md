@@ -1,38 +1,35 @@
 # Nextcloud is available in many languages. How is that done?
-Instead of maintaining an own translation server like pootle Nextcloud is using Transifex to achieve translation in many languages.
-Transifex offers free service for open source projects.
+Instead of maintaining our own translation server, like Pootle, Nextcloud uses Transifex to facilitate translations for many languages.
+Transifex offers gratis service for open source projects.
 
 Are you interested in translating Nextcloud?
 
-Just create an account and apply to join Nextcloud organization. You are welcome!
+Create an account on Transifex, then apply to join the Nextcloud organization. You are welcome.
 
-Once you joined our organization you can apply to join your target language. There are already more than 70 languages available. Feel free to request a new one if your native language is missing.
+Once you have joined the organization, apply to join one of the over 70 target languages available. Should yours be missing, feel free to request it.
 
-Best way is to start translating some strings. Get an overwiew about already existing translations. Check features and basic function of Transifex.
+Best way is to start translating some strings. Get an overwiew of what and how things have already been translated.
+There are some features and functions in transifex, but the basics is pretty much all that works.
 
-If you get caught by l18n stuff and you take care about your language you can think about beeing a reviewer. Even more fun :-)
-
-# General information about Transifex
-## Language teams
-Each language is organized in a team.
-
-You have organizers, reviewers and most important translators. You are the engine of the car. 
+If translating is not your boat of wood, or similar, you can be a reviewer. Even more fun :-)
 
 ## How to discuss at Transifex?
 
-You can discuss for each string. Who ever reads it can respond. There is no way to subscribe to any discussion as long as somebody marks discussion as issue.
+You can discuss for each string. Whoever reads it can respond. There is no way to subscribe to any discussion as long as somebody doesn't mark the discussion as an issue.
 
-For language teams there is a chance to discuss as well. It is not easy to find at web UI and not many people responding (german team experience with more than 100 members)
+For language teams there is a chance to discuss as well. It is not easy to find through the web UI and not many people respond (German team experience with more than 100 members)
 
-You could send private message to other members. Inbox and outbox are separate and there is no option to see threaded messages. You cannot invite third person to private discussions.
+You can send private message to other members. Inbox and outbox are separate and there is no option to see threaded messages. You cannot invite a third person to private discussions.
 
 ## Different roles at Transifex?
 
-To unterstand roles and their respective permissions see https://docs.transifex.com/teams/understanding-user-roles/
+To understand roles and their respective permissions see https://docs.transifex.com/teams/understanding-user-roles/
+
+You have Maintainers,language coordinators, reviewers and most importantly: translators. You are the engine of the car.
 
 # Information for Translators
 ## Basic knowledge to start
-You have joined a language team. Do not hesitate to contact persons of it.
+You have joined a language team. Do not hesitate to contact people in it.
 
 Newbie information: Whenever translating parts of a single resource please do not just translate a single string without looking at already translated strings. Most resources have a common wording and you should follow it. If you have a different position you should discuss first before changing strings.
 
@@ -46,26 +43,22 @@ If you are struggling to translate a string feel free to add a comment including
 
 You like to discuss your thoughts? No problem, just invite your team members using @username.
 
-## When to create an issue at transifex?
+## When to create an issue at Transifex?
 
 Whenever you feel just a comment is not sufficient and you need information to help all other language translators feel free to mark your comment as an issue.
 
 ## What to do if I want to change a source string?
 
-Sometimes you encounter a typo are other spelling error inside a source string. Or you find an error or grammar issue. If so, feel free to file an issue or even better go to GitHub and provide PR (Pull request) to correct it.
+Sometimes you encounter a typo or some other spelling error inside a source string. Or you find an error or grammar issue. If so, feel free to file an issue by marking a comment as an issue, or, even better, go to GitHub and provide a PR (Pull request) to correct it.
 
-Most translators are not familiar with coding tools like GitHub nor do have coding background. In such cases just add an comment and mark it as issue. Do you have an GitHub account? Go to related repository and file issue. Community members will work on it.
+Most translators are not familiar with coding tools like GitHub nor have any coding background. It is though easy enough to make a GitHub account and navigate to the related repository. From there you can file issues directly where coders see it, get help, and learn to fix things on your own. GitHub has a bigger community since it is more integrated in the workflow.
 
 # Information for Project Maintainers
 ## How to handle new language requests?
 
-Nextcloud want to cover the world. To reach this target we need to provide as many languages as we can get.
+Nextcloud wants to cover the world. To reach this target as many languages as possible need be covered.
 Luckily every week we get new language requests. Great. But do not simply accept it. 
-Please check if similar languages are already there. If so, check the team size and send a personal message to language requester. Tell him/her about the language you found, provide link to team and ask her/him to join named team.
-
-What happens if we accept all language requests?
-
-We have a lot of languages. The no. will be impressive, but the state of completeness is low and quality might be as well.
+Please check if similar languages are already there. If so, check the team size and send a personal message to the language requester. Tell him/her about the language you found, provide link to team and ask her/him to join named team.
 
 ...
 
@@ -73,7 +66,7 @@ We have a lot of languages. The no. will be impressive, but the state of complet
 ## How to work on issues
 ...
 
-# Information for German Team Members (in german)
+# Information for German Team Members (in German)
 ## Wieso zwei Sprachen?
 Für die deutsche Sprache gibt es zwei Übersetzungen bei Transifex. Diesen Luxus und Aufwand gönnen sich aktuell nur die Deutschen. Die Mitgliederzahl ist stark und der Übersetzungsgrad hoch.
 
