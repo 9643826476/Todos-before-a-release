@@ -1,5 +1,5 @@
 # Nextcloud is available in many languages. How is that done?
-Instead of maintaining our own translation server, like Pootle, Nextcloud uses Transifex to facilitate translations for many languages.
+Instead of maintaining our own translation server, like Pootle, Nextcloud uses [Transifex](https://www.transifex.com/nextcloud/nextcloud/dashboard/) to facilitate translations for many languages.
 Transifex offers gratis service for open source projects.
 
 Are you interested in translating Nextcloud?
@@ -8,8 +8,8 @@ Create an account on Transifex, then apply to join the Nextcloud organization. Y
 
 Once you have joined the organization, apply to join one of the over 70 target languages available. Should yours be missing, feel free to request it.
 
-Best way is to start translating some strings. Get an overwiew of what and how things have already been translated.
-There are some features and functions in transifex, but the basics is pretty much all that works.
+Best way is to start translating some strings. Get an overview of what and how things have already been translated.
+There are some features and functions in Transifex, but the basics is pretty much all that works.
 
 If translating is not your boat of wood, or similar, you can be a reviewer. Even more fun :-)
 
@@ -20,6 +20,8 @@ You can discuss for each string. Whoever reads it can respond. There is no way t
 For language teams there is a chance to discuss as well. It is not easy to find through the web UI and not many people respond (German team experience with more than 100 members)
 
 You can send private message to other members. Inbox and outbox are separate and there is no option to see threaded messages. You cannot invite a third person to private discussions.
+
+Using [the forum](https://help.nextcloud.com/) is a much better idea.
 
 ## Different roles at Transifex?
 
@@ -64,6 +66,8 @@ Please check if similar languages are already there. If so, check the team size 
 
 
 ## How to work on issues
+
+
 ...
 
 # Information for German Team Members (in German)
