@@ -44,6 +44,8 @@ Do not use translate.google.com to just enter and copy result to Transifex.
 
 If you are struggling to translate a string feel free to add a comment including your question.
 
+You like to discuss your thoughts? No problem, just invite your team members using @username.
+
 ## When to create an issue at transifex?
 
 Whenever you feel just a comment is not sufficient and you need information to help all other language translators feel free to mark your comment as an issue.
@@ -51,6 +53,7 @@ Whenever you feel just a comment is not sufficient and you need information to h
 ## What to do if I want to change a source string?
 
 Sometimes you encounter a typo are other spelling error inside a source string. Or you find an error or grammar issue. If so, feel free to file an issue or even better go to GitHub and provide PR (Pull request) to correct it.
+
 Most translators are not familiar with coding tools like GitHub nor do have coding background. In such cases just add an comment and mark it as issue. Do you have an GitHub account? Go to related repository and file issue. Community members will work on it.
 
 # Information for Project Maintainers
