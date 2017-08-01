@@ -122,8 +122,7 @@ In der Apple-Welt wird die Sie-Form empfohlen und es kann nur eine deutsche Übe
 Link zur relevanten Sprache: https://www.transifex.com/nextcloud/nextcloud/language/de_DE/
 
 ### Windows Phone-App
-Auch hier wird in Zukunft nur eine Übersetzung benötigt. Klärung erfolgt noch.
-...
+Auch hier wird, wie bei iOS, nur die Übersetzung in der Sie-Form benötigt. 
 
 Link zur relevanten Sprache: https://www.transifex.com/nextcloud/nextcloud/language/de_DE/
 
