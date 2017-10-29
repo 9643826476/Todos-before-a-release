@@ -1,6 +1,6 @@
 # Nextcloud is available in many languages. How is that done?
 Instead of maintaining our own translation server, like Pootle, Nextcloud uses [Transifex](https://www.transifex.com/nextcloud/nextcloud/dashboard/) to facilitate translations for many languages.
-Transifex offers gratis service for open source projects.
+Transifex offers free service for open source projects.
 
 Are you interested in translating Nextcloud?
 
