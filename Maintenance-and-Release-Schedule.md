@@ -8,6 +8,12 @@
 | **10** | 2016-08-25        | 2017-05          | 10.0.6 (2017-08-07)     | **End of Life**
 |  **9** | 2016-03-08        | 2017-04          | 9.0.58 (2017-04-24)     | **End of Life**
 
+
+### Nextcloud 13
+   * **13.0.0 beta 4**: 2017-01-05
+   * **13.0.0 RC1**: 2017-01-10
+   * **13.0.0**: between 2017-01-17 to 2017-01-24 (depending on the feedback)
+
 ### ownCloud versions (before the fork)
 |          | release date   | end of life | current version         | next version
 |:--------:|---------------:|------------:|------------------------:|---------------------:
