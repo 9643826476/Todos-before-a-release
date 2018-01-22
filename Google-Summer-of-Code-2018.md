@@ -15,6 +15,8 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 
 
 ### Android
+* Chat support for Nextcloud Talk Android app (mentor: Mario Danic - mario@nextcloud.com)
+* Full blown 2-way-sync for Nextcloud Android app (mentor: Mario Danic - mario@nextcloud.com)
 * See many [ideas in github](https://github.com/nextcloud/android/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
 
 ### iOS
