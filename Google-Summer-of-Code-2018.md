@@ -35,7 +35,7 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 * Julius Härtl ([@juliushaertl](https://github.com/juliushaertl))
 * Camila Ayres ([@camilasan](https://github.com/camilasan))
 * Roeland Jago Douma ([@rullzer](https://github.com/rullzer))
-* Mario Danic ([@mario](https://github.com/mario)) [Android, Python desktop client]
+* Mario Danic ([@mario](https://github.com/mario)) [Android (Nextcloud Talk and Nextcloud Files)]
 * Tobias Kaminsky ([@tobiaskaminsky](https://github.com/tobiaskaminsky)) [Android]
 
 (add yourself here please)
