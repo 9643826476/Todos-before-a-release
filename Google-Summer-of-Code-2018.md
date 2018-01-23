@@ -56,6 +56,7 @@ Feel free to join our IRC channel [#nextcloud-deck](https://riot.im/app/#/room/#
 ## Nextcloud coordinators
 
 * Jos Poortvliet ([@jospoortvliet](https://github.com/jospoortvliet))
+* Nina Cercy ([@NinaNC](https://github.com/ninanc))
 
 ## Nextcloud Mentors
 * Julius Härtl ([@juliushaertl](https://github.com/juliushaertl))
@@ -65,6 +66,5 @@ Feel free to join our IRC channel [#nextcloud-deck](https://riot.im/app/#/room/#
 * Tobias Kaminsky ([@tobiaskaminsky](https://github.com/tobiaskaminsky)) [Android]
 * Björn Schießle ([@schiessle](https://github.com/schiessle))
 * Georg Ehrke ([@georgehrke](https://github.com/georgehrke))
-* Nina Cercy ([@NinaNC](https://github.com/ninanc))
 
 (add yourself here please)
