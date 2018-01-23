@@ -37,7 +37,6 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 
 #### Calendar
 * Free/Busy Management (mentor: Georg Ehrke - georg@nextcloud.com)
-* 
 
 ### Other
 
