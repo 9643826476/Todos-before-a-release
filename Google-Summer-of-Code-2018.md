@@ -3,7 +3,7 @@ Check the [offical GSoC](https://summerofcode.withgoogle.com/) page for general 
 We have applied: more information on February 12th!
 
 ## Tips
-We will prefer students who have shown to have the skills needed to contribute to Nextcloud. That means - if you've successfully managed to do a junior job, bugfix or other minor change to Nextcloud and have gone through the process of integrating this at least once, we will know you've got a development setup and are capable of working with our process. We thus suggest to get started at https://nextcloud.com/contribute/
+We will prefer students who have shown to have the skills needed to contribute to Nextcloud. That means - if you've successfully managed to do an issue labeled with [good first issue](https://github.com/nextcloud/server/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) , bugfix or other minor change to Nextcloud and have gone through the process of integrating this at least once, we will know you've got a development setup and are capable of working with our process. We thus suggest to get started at https://nextcloud.com/contribute/
 
 ## Project Ideas
 Here we'd like to put a list of projects we suggest (GSoC projects are restricted to coding): 
@@ -51,7 +51,7 @@ Feel free to join our IRC channel [#nextcloud-deck](https://riot.im/app/#/room/#
 ### Other
 
 
-**__We do want to encourage you to come up with your own project ideas and discuss them with potential mentors. Please join us on IRC or on our [forums](https://help.nextcloud.com) to discuss ideas.__**
+**__We do want to encourage you to come up with your own project ideas and discuss them with potential mentors. Please join us on IRC channel [#nextcloud-dev at freenode](https://riot.im/app/#/room/#freenode_#nextcloud-dev:matrix.org) or on our [forums](https://help.nextcloud.com/c/dev/gsoc) to discuss ideas.__**
 
 ## Nextcloud coordinators
 
