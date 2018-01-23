@@ -38,6 +38,16 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 #### Calendar
 * Free/Busy Management (mentor: Georg Ehrke - georg@nextcloud.com)
 
+#### Deck (PHP/JS/AngularJS)
+* CalDAV plugin for managing projects via external apps [#15](https://github.com/nextcloud/deck/issues/15) (mentor: Julius Haertl - julius@nextcloud.com)
+* File attachments for cards [#109](https://github.com/nextcloud/deck/issues/109)(mentor: Julius Haertl - julius@nextcloud.com)
+* Advanced card filtering [#289](https://github.com/nextcloud/deck/issues/289) (mentor: Julius Haertl - julius@nextcloud.com)
+* Relation management between cards [#272](https://github.com/nextcloud/deck/issues/272) (mentor: Julius Haertl - julius@nextcloud.com)
+* Different card types that support external data (mentor: Julius Haertl - julius@nextcloud.com)
+* Find some other [ideas in the github repo](https://github.com/nextcloud/deck/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement) (mentor: Julius Haertl - julius@nextcloud.com)
+
+Feel free to join our IRC channel [#nextcloud-deck](https://riot.im/app/#/room/#freenode_#nextcloud-deck:matrix.org) on freenode, if you have any questions or want to discuss about other project ideas.
+
 ### Other
 
 
