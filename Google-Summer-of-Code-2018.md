@@ -68,3 +68,7 @@ Feel free to join our IRC channel [#nextcloud-deck](https://riot.im/app/#/room/#
 * Georg Ehrke ([@georgehrke](https://github.com/georgehrke))
 
 (add yourself here please)
+
+## Students suggestions
+
+(add your name and suggestion here!)
