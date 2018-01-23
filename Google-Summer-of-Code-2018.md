@@ -12,7 +12,9 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 
 
 ### Server
-
+* Federated Calendar and Contacts sharing - [#1440](https://github.com/nextcloud/server/issues/1440) (mentor: Georg Ehrke - georg@nextcloud.com, Björn Schießle - bjoern@nextcloud.com)
+* Calendar and Contacts Trashbin - [#1662](https://github.com/nextcloud/server/issues/1662) (mentor: Georg Ehrke - georg@nextcloud.com)
+* Expose subscribed webcal calendars via CalDAV - [#1497](https://github.com/nextcloud/server/issues/1497) (mentor: Georg Ehrke - georg@nextcloud.com)
 
 ### Android
 * Chat support for Nextcloud Talk Android app (mentor: Mario Danic - mario@nextcloud.com, Tobias Kaminsky - tobias@nextcloud.com)
@@ -48,6 +50,7 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 * Roeland Jago Douma ([@rullzer](https://github.com/rullzer))
 * Mario Danic ([@mario](https://github.com/mario)) [Android (Nextcloud Talk and Nextcloud Files)]
 * Tobias Kaminsky ([@tobiaskaminsky](https://github.com/tobiaskaminsky)) [Android]
+* Björn Schießle ([@schiessle](https://github.com/schiessle))
+* Georg Ehrke ([@georgehrke](https://github.com/georgehrke))
 
 (add yourself here please)
-
