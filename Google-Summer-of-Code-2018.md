@@ -15,9 +15,18 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 
 
 ### Android
-* Chat support for Nextcloud Talk Android app (mentor: Mario Danic - mario@nextcloud.com)
-* Full blown 2-way-sync for Nextcloud Android app (mentor: Mario Danic - mario@nextcloud.com)
+* Chat support for Nextcloud Talk Android app (mentor: Mario Danic - mario@nextcloud.com, Tobias Kaminsky - tobias@nextcloud.com)
+* Full blown 2-way-sync for Nextcloud Android app (mentor: Mario Danic - mario@nextcloud.com, Tobias Kaminsky - tobias@nextcloud.com)
+* Video streaming (mentor: Tobias Kaminsky - tobias@nextcloud.com
+* Enhance Tablet support (mentor: Tobias Kaminsky - tobias@nextcloud.com
+* Gallery view instead of video & photo section (mentor: Tobias Kaminsky - tobias@nextcloud.com)
+* Switch completely to glide as internal caching (mentor: Tobias Kaminsky - tobias@nextcloud.com)
+* Offline-Support (mentor: Tobias Kaminsky - tobias@nextcloud.com)
+* Full folder upload (mentor: Tobias Kaminsky - tobias@nextcloud.com)
+* Support file versioning (mentor: Tobias Kaminsky - tobias@nextcloud.com)
+* Support trash bin (mentor: Tobias Kaminsky - tobias@nextcloud.com)
 * See many [ideas in github](https://github.com/nextcloud/android/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
+
 
 ### iOS
 * See many [ideas in github](https://github.com/nextcloud/ios/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
