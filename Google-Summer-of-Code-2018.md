@@ -27,10 +27,12 @@ Here we'd like to put a list of projects we suggest (GSoC projects are restricte
 * Full folder upload (mentor: Tobias Kaminsky - tobias@nextcloud.com, Mario Danic - mario@nextcloud.com)
 * Support file versioning (mentor: Tobias Kaminsky - tobias@nextcloud.com, Mario Danic - mario@nextcloud.com)
 * Support trash bin (mentor: Tobias Kaminsky - tobias@nextcloud.com, Mario Danic - mario@nextcloud.com)
-* See many [ideas in github](https://github.com/nextcloud/android/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
+* See many [other ideas in github](https://github.com/nextcloud/android/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
 
 
 ### iOS
+* New function: allow plain text editing for markdown (.md) [#471](https://github.com/nextcloud/ios/issues/471)
+* [e2ee] Exchange 12 word secret via QR code [#464](https://github.com/nextcloud/ios/issues/464)
 * See many [ideas in github](https://github.com/nextcloud/ios/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
 
 ### Apps
