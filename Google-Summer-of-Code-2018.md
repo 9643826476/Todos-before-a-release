@@ -73,7 +73,7 @@ Feel free to join our IRC channel [#nextcloud-talk at freenode](https://riot.im/
 * Joas Schilling ([@nickvergessen](https://github.com/nickvergessen))
 * Julius Härtl ([@juliushaertl](https://github.com/juliushaertl))
 * Georg Ehrke ([@georgehrke](https://github.com/georgehrke))
-* Mario Danic ([@mario](https://github.com/mario)) [Android (Nextcloud Talk and Nextcloud Files)]
+* Mario Danic ([@mario](https://github.com/mario), pygi on Freenode) [Android (Nextcloud Talk and Nextcloud Files)]
 * Maxence Lange ([@daita](https://github.com/daita))
 * Roeland Jago Douma ([@rullzer](https://github.com/rullzer))
 * Tobias Kaminsky ([@tobiaskaminsky](https://github.com/tobiaskaminsky)) [Android]
