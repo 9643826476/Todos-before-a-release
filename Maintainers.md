@@ -83,10 +83,11 @@
 [@tcitworld]: https://github.com/tcitworld
 [@timar]: https://github.com/timar
 [@pranavk]: https://github.com/pranavk
+[@rakekniven]: https://github.com/rakekniven
 
 ## [Translation work](https://www.transifex.com/nextcloud/nextcloud/dashboard/)
 
 | Language | Maintainer |
-|-----------|------------|
+|----------|------------|
 | General | [@rakekniven] |
 | Others | See Transifex |
