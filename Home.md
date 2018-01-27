@@ -12,3 +12,7 @@ Welcome to the server wiki!
 ## Maintainers
 
 * [List of Maintainers](https://github.com/nextcloud/server/wiki/Maintainers)
+
+## Release work
+
+* [ToDo (no coding)](ToDo-Release-No-Coding)
