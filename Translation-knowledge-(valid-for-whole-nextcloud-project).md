@@ -71,6 +71,11 @@ Please check if similar languages are already there. If so, check the team size 
 ...
 
 # Information for German Team Members (in German)
+
+## Wie kann ich mich beteiligen?
+Schön das Du Lust hast hier etwas beizutragen. Nextcloud ist ein tolles Projekt dazu. 
+Melde Dich bei Transifex an. Trete den deutschsprachigen Teams bei schaue Dich um. Hast Du Fragen. Dann wende Dich im Forum an uns (Links folgen noch).
+
 ## Wieso zwei Sprachen?
 Für die deutsche Sprache gibt es zwei Übersetzungen bei Transifex. Diesen Luxus und Aufwand gönnen sich aktuell nur die Deutschen. Die Mitgliederzahl ist stark und der Übersetzungsgrad hoch.
 
