@@ -1,0 +1,1 @@
+See [Rails Girls SoC](https://github.com/nextcloud/server/wiki/Rails-Girls-Summer-of-Code-2018)
