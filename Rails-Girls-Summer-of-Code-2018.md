@@ -1,4 +1,4 @@
-Check the [offical GSoC](https://summerofcode.withgoogle.com/) page for general information such as schedule and requirements to participate in the program.
+Check the offical [RailsGirls SoC](https://railsgirlssummerofcode.org/) page for general information such as schedule and requirements to participate in the program.
 
 We have applied: more information on February 12th!
 
@@ -6,10 +6,7 @@ We have applied: more information on February 12th!
 We will prefer students who have shown to have the skills needed to contribute to Nextcloud. That means - if you've successfully managed to do an issue labeled with [good first issue](https://github.com/nextcloud/server/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) , bugfix or other minor change to Nextcloud and have gone through the process of integrating this at least once, we will know you've got a development setup and are capable of working with our process. We thus suggest to get started at https://nextcloud.com/contribute/
 
 # Project Ideas
-Here we'd like to put a list of projects we suggest (GSoC projects are restricted to coding): 
-
-## Desktop
-
+Here we'd like to put a list of projects we suggest: 
 
 ## Server (PHP)
 * Federated Calendar and Contacts sharing - [#1440](https://github.com/nextcloud/server/issues/1440) (mentor: Georg Ehrke - georg@nextcloud.com, Björn Schießle - bjoern@nextcloud.com)
