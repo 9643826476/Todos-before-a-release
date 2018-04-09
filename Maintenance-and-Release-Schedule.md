@@ -8,6 +8,11 @@
 | **10** | 2016-08-25        | 2017-08          | 10.0.6 (2017-08-07)     | **End of Life**
 |  **9** | 2016-03-08        | 2017-04          | 9.0.58 (2017-04-24)     | **End of Life**
 
+#### Nextcloud 14
+
+* Feature freeze: 2018-06-26
+* Release: August 2018
+
 ### ownCloud versions (before the fork)
 |          | release date   | end of life | current version         | next version
 |:--------:|---------------:|------------:|------------------------:|---------------------:
