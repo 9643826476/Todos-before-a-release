@@ -42,7 +42,7 @@ Do not use translate.google.com to just enter and copy result to Transifex.
 ## Common rules
 
 ### Ellipsis
-Whenever you need triple dots to show progress or similar status you should use unicode character '…' instead of html entity (&#x2026 ; &#8230 ; &hellip ;) e.g. 'Uploading…'
+Whenever you need triple dots (punctuation mark) to show progress or similar status you should use unicode character '…' instead of html entity (&#x2026 ; &#8230 ; &hellip ;) e.g. 'Uploading…'
 
 ## When to comment a string at Transifex?
 
