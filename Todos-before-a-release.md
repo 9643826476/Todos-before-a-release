@@ -3,7 +3,6 @@ Check list for a release (copy it to a ticket and then tick of the checkboxes):
 ```
 # RC phase (up to one week before the release date)
 
-
 * [ ] get all the pending backports merged to the stable branches ([check the milestones accross the organisation](https://github.com/issues?utf8=✓&q=is%3Aopen+user%3Anextcloud+archived%3Afalse+milestone%3A%22Nextcloud+13.0.2%22+))
 * [ ] create the RC packages
 * [ ] upload the RC packages to the `/server/prereleases` folder of the download server
