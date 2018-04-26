@@ -13,4 +13,4 @@ Welcome to the server wiki!
 
 ## Release work
 
-* [ToDo (no coding)](ToDo-Release-No-Coding)
+* [Todos before a release](https://github.com/nextcloud/server/wiki/Todos-before-a-release)
