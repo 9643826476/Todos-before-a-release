@@ -19,7 +19,6 @@ Check list for a release (copy it to a ticket and then tick of the checkboxes):
 
 ## T - 30 minutes
 
-
 * [ ] copy the final packages to `/server/releases` folder of the download server
 * [ ] update the stable channel of the [updater_server](https://github.com/nextcloud/updater_server)
 * [ ] test the updater_server on the internal URL (`https://updates.nextcloud.com/internal_updater_server/`)
