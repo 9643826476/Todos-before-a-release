@@ -26,6 +26,7 @@ Check list for a release (copy it to a ticket and then tick of the checkboxes):
 * [ ] test the updater_server on the internal URL (`https://updates.nextcloud.com/internal_updater_server/`)
 * [ ] merge the website PR
 * [ ] deploy the website PR (maybe update caches)
+* [ ] update [wiki page](https://github.com/nextcloud/server/wiki/Maintenance-and-Release-Schedule)
 
 ## T
 
