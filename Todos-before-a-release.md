@@ -1,8 +1,3 @@
-* Tweet the news and use other social channels,
-* Check wikipedia pages for release information. Update pages if necessary.
-    * Check wikimedia content for outdated media e.g. screenshots
-
-
 Check list for a release (copy it to a ticket and then tick of the checkboxes):
 
 ```
@@ -37,4 +32,9 @@ Check list for a release (copy it to a ticket and then tick of the checkboxes):
 * [ ] publish blog posts
 * [ ] send newsletter
 * [ ] post on social media
+
+# Post processing (non-coding)
+
+* [ ] check wikipedia pages for release information - update pages if necessary
+* [ ] check wikimedia content for outdated media e.g. screenshots
 ```
