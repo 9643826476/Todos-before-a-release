@@ -34,6 +34,7 @@ Check list for a release (copy it to a ticket and then tick of the checkboxes):
 
 # Post processing (non-coding)
 
+* [ ] update the milestones in all repos (use the [milestone updater](https://github.com/nextcloud/github_helper/tree/master/milestoneupdater) for this)
 * [ ] check wikipedia pages for release information - update pages if necessary
 * [ ] check wikimedia content for outdated media e.g. screenshots
 ```
