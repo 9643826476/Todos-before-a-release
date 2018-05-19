@@ -125,7 +125,7 @@ Das pflegen von zwei deutschen Übersetzung ist aufwendig. Damit die Übersetzun
 
 Aktuell gibt es einige Unterschiede. Die Reviewer kennen das, wenn sie beide Sprachen zeitgleich reviewen.
 
-## Besonderheiten
+## Besonderheiten der mobilen Apps
 ### iOS-App
 In der Apple-Welt wird die Sie-Form empfohlen und es kann nur eine deutsche Übersetzung für die Sprachauswahl "deutsch" herangezogen werden. Das App-Team hat entschieden die Sie-Form zu verwenden. Daher ist eine Übersetzung für die Du-Form nicht notwendig. Daher wird bei allen Strings der Du-Form der String "" eingetragen. Vorteil: Auch Personen die selten an den Übersetzungen mitarbeiten verschwenden keine Energie für Nicht-Verwendete Übersetzungen.
 
@@ -138,3 +138,9 @@ Link zur relevanten Sprache: https://www.transifex.com/nextcloud/nextcloud/langu
 
 ### Android-App
 In Android ist nur eine Form für die deutsche Sprache möglich. Deswegen hat das Android-Team beschlossen, nur die formelle Anrede zu verwenden.
+
+Umsetzung steht kurz bevor. rakekniven 2018-05-19
+
+## Anmerkungen zu Transifex
+Diskussionen auf Transifex sind schwer zu führen. Man kann sich Nachrichten schreiben, allerdings nur zwei Personen. Man kann aktuell keine weiteren Personen zu Diskussionen einladen.
+
