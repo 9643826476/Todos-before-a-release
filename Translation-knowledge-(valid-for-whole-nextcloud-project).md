@@ -139,7 +139,9 @@ Link zur relevanten Sprache: https://www.transifex.com/nextcloud/nextcloud/langu
 ### Android-App
 In Android ist nur eine Form für die deutsche Sprache möglich. Deswegen hat das Android-Team beschlossen, nur die formelle Anrede zu verwenden.
 
-Umsetzung steht kurz bevor. rakekniven 2018-05-19
+Umsetzung erfolgt. rakekniven 2018-05-23
+
+Link zur relevanten Sprache: https://www.transifex.com/nextcloud/nextcloud/language/de_DE/
 
 ## Anmerkungen zu Transifex
 Diskussionen auf Transifex sind schwer zu führen. Man kann sich Nachrichten schreiben, allerdings nur zwei Personen. Man kann aktuell keine weiteren Personen zu Diskussionen einladen.
