@@ -113,8 +113,8 @@ Beispiele ...
 
 ## Infos für Übersetzer
 
-(Übersicht verschaffen, Begriffe nachschlagen, andere Ansätze in help.nextcloud.com diskutieren: Link)
-
+Am besten erstmal eine Übersicht auf Transifex verschaffen. Auch die Begriffe im Glossar nachschlagen.
+Ideen und Vorschläge im [Forum](https://help.nextcloud.com/c/translations/deutsch) diskutieren.
 
 Wenn ein String übersetzt wird, dann immer beide Sprachen pflegen. Das führt zu einem konsistenten Übersetzungsgrad und spart die Nacharbeit.
 
