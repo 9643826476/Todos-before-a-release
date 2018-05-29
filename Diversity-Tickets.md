@@ -30,7 +30,7 @@ Learn more about the conference, like the program and what kind of sessions to e
 
 ## Directions for Applicants
 
-Nextcloud is committed to support diversity and will provide support to people of underrepresented groups in tech. This includes people who belong to one or more of the following groups: women, people of color, nonbinary and gender non-conforming people, disabled people, and LGBTQIA+ people.
+Nextcloud is committed to support diversity and will provide support to people of underrepresented groups in tech. This includes people who belong to one or more of the following groups: women*, people of color, nonbinary & gender non-conforming people, people with disabilities, and LGBTQIA+ people.
 
 The event is free and provides catered lunch. We will provide up to 80% support of travel & accomodation costs during the event to people who have contributed to Nextcloud in one way or another. For instance, you can:
 
