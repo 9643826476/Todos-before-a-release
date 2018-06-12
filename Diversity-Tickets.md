@@ -1,11 +1,13 @@
 For submitting the [Nextcloud Conference](https://nextcloud.com/conf) to [Diversity Tickets](https://diversitytickets.org). Copy the source code to preserve Markdown formatting.
 
+Note that [Diversity Tickets does not support emojis yet](https://github.com/rubymonsters/diversity_ticketing/issues/357), but I kept them in just in case they do next year. 😃
+
 ## Event details
 
 **Name:** Nextcloud Conference
 
 **Tags:**
-- Programming language: C++, Java, Javascript+, Objective-C, PHP
+- Programming language: C++, Java, Javascript+, Objective-C, PHP, Swift
 - Language: English
 
 **Logo:** https://raw.githubusercontent.com/nextcloud/promo/master/nextcloud-icon-background.png
@@ -34,12 +36,12 @@ Nextcloud is committed to support diversity and will provide support to people o
 
 The event is free and provides catered lunch. We will provide up to 80% support of travel & accomodation costs during the event to people who have contributed to Nextcloud in one way or another. For instance, you can:
 
-- [👩‍💻 solve a good first issue](https://github.com/nextcloud/server/labels/good%20first%20issue)
-- [🎨 work on the design](https://nextcloud.com/design/)
-- [🐛 test Nextcloud and report issues](https://docs.nextcloud.com/server/14/developer_manual/bugtracker/)
-- [🌐 help with translations](https://www.transifex.com/nextcloud/nextcloud/)
-- [🎉 organize a local Nextcloud meetup](https://www.meetup.com/topics/nextcloud/)
-- [❓ or contribute in other ways](https://nextcloud.com/contribute/)
+- [👩‍💻 Solve a good first issue](https://github.com/nextcloud/server/labels/good%20first%20issue)
+- [🎨 Work on the design](https://nextcloud.com/design/)
+- [🐛 Test Nextcloud and report issues](https://docs.nextcloud.com/server/14/developer_manual/bugtracker/)
+- [🌐 Help with translations](https://www.transifex.com/nextcloud/nextcloud/)
+- [🎉 Organize a local Nextcloud meetup](https://www.meetup.com/topics/nextcloud/)
+- [❓ Or contribute in other ways](https://nextcloud.com/contribute/)
 
 Then, send a mail to events@nextcloud.com with subject [Diversity ticket] YOUR NAME and a link to your contribution, whatever it is!
 
@@ -56,4 +58,4 @@ We will contact you and arrange everything. We look forward to your applications
 
 **Application & Selection:** We are handling both the selection and application process and only want our event listed on this site.
 
-**Link to application form:** `mailto:events@nextcloud.com?subject=%5BDiversity%20ticket%5D%20YOUR%20NAME&body=Link%20to%20your%20contribution`
+**Link to application form:** https://nextcloud.com/conf/#diversity
