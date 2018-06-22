@@ -11,7 +11,7 @@
 
 #### Nextcloud 14
 
-* Feature freeze: 2018-06-26
+* Feature freeze: 2018-06-29
 * Release: August 2018
 
 ### ownCloud versions (before the fork)
