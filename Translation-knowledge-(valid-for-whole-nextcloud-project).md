@@ -127,7 +127,7 @@ Aktuell gibt es einige Unterschiede. Die Reviewer kennen das, wenn sie beide Spr
 
 ## Besonderheiten der mobilen Apps
 ### iOS-App
-In der Apple-Welt wird die Sie-Form empfohlen und es kann nur eine deutsche Übersetzung für die Sprachauswahl "deutsch" herangezogen werden. Das App-Team hat entschieden die Sie-Form zu verwenden. Daher ist eine Übersetzung für die Du-Form nicht notwendig. Daher wird bei allen Strings der Du-Form der String "" eingetragen. Vorteil: Auch Personen die selten an den Übersetzungen mitarbeiten verschwenden keine Energie für Nicht-Verwendete Übersetzungen.
+In der Apple-Welt wird die Sie-Form empfohlen und es kann nur eine deutsche Übersetzung für die Sprachauswahl "deutsch" herangezogen werden. Das App-Team hat entschieden die Sie-Form zu verwenden. Daher ist eine Übersetzung für die Du-Form nicht notwendig. Daher wird bei allen Strings der Du-Form der String "Benötigt keine Übersetzung. Für iOS wird nur die formelle Übersetzung verwendet (de_DE)." eingetragen. Vorteil: Auch Personen die selten an den Übersetzungen mitarbeiten verschwenden keine Energie für Nicht-Verwendete Übersetzungen.
 
 Link zur relevanten Sprache: https://www.transifex.com/nextcloud/nextcloud/language/de_DE/
 
