@@ -44,6 +44,10 @@ Do not use translate.google.com to just enter and copy result to Transifex.
 ### Ellipsis
 Whenever you need triple dots (punctuation mark) to show progress or similar status you should use unicode character '…' instead of html entity (&#x2026 ; &#8230 ; &hellip ;) e.g. 'Uploading …'
 
+General rule:
+* No space before ellipsis if you shorten a word
+* Space before ellipsis when you shorten a sentence
+
 ## When to comment a string at Transifex?
 
 If you are struggling to translate a string feel free to add a comment including your question.
