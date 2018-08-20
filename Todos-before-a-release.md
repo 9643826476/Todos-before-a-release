@@ -15,6 +15,7 @@ Check list for a release (copy it to a ticket and then tick of the checkboxes):
 
 * [ ] prepare blog post, newsletter, social media messages (check the changelog for interesting features/fixes and possible screenshots)
 * [ ] update the changelog on the website (use the [changelog generator script](https://github.com/nextcloud/github_helper#changelog-generator))
+* [ ] prepare "What's new" server - [Example](https://github.com/nextcloud/changelog_server/pull/5)
 * [ ] create the final packages
 * [ ] upload the final packages to `/server/prereleases` folder of the download server
 
@@ -26,6 +27,7 @@ Check list for a release (copy it to a ticket and then tick of the checkboxes):
 * [ ] merge the website PR
 * [ ] deploy the website PR (maybe update caches)
 * [ ] update [wiki page](https://github.com/nextcloud/server/wiki/Maintenance-and-Release-Schedule)
+* [ ] deploy "What's new" server - [repository](https://github.com/nextcloud/changelog_server/)
 
 ## T
 
