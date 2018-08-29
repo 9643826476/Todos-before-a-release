@@ -20,6 +20,15 @@
 * RC 2: 2018-08-29/30
 * Release: 2018-09-06
 
+#### Nextcloud 15
+
+* Feature freeze: 2018-11-01
+* Beta 1: 2018-11-08
+* Beta 2: 2018-11-15
+* RC 1: 2018-11-22
+* RC 2: 2018-11-29
+* Release: 2018-12-06
+
 ### ownCloud versions (before the fork)
 |          | release date   | end of life | current version         | next version
 |:--------:|:---------------|------------:|------------------------:|---------------------:
