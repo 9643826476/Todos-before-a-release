@@ -10,12 +10,12 @@ Check list for a release (copy it to a ticket and then tick of the checkboxes):
 * [ ] update the beta channel of the [updater_server](https://github.com/nextcloud/updater_server)
 * [ ] test the updater_server on the internal URL (`https://updates.nextcloud.com/internal_updater_server/`)
 * [ ] ask in the forums for help (use the [changelog generator script](https://github.com/nextcloud/github_helper#changelog-generator))
+* [ ] prepare "What's new" server - [Example](https://github.com/nextcloud/changelog_server/pull/5)
 
 # Release (~2 days before the planned release)
 
 * [ ] prepare blog post, newsletter, social media messages (check the changelog for interesting features/fixes and possible screenshots)
 * [ ] update the changelog on the website (use the [changelog generator script](https://github.com/nextcloud/github_helper#changelog-generator))
-* [ ] prepare "What's new" server - [Example](https://github.com/nextcloud/changelog_server/pull/5)
 * [ ] create the final packages
 * [ ] upload the final packages to `/server/prereleases` folder of the download server
 
