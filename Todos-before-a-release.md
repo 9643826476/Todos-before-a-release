@@ -27,7 +27,6 @@ Check list for a release (copy it to a ticket and then tick of the checkboxes):
 * [ ] merge the website PR
 * [ ] deploy the website PR (maybe update caches)
 * [ ] update [wiki page](https://github.com/nextcloud/server/wiki/Maintenance-and-Release-Schedule)
-* [ ] deploy "What's new" server - [repository](https://github.com/nextcloud/changelog_server/)
 
 ## T
 
