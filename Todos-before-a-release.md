@@ -16,6 +16,7 @@ Check list for a release (copy it to a ticket and then tick of the checkboxes):
 
 * [ ] prepare blog post, newsletter, social media messages (check the changelog for interesting features/fixes and possible screenshots)
 * [ ] update the changelog on the website (use the [changelog generator script](https://github.com/nextcloud/github_helper#changelog-generator))
+* [ ] update version number on website (in `strings.php`)
 * [ ] create the final packages
 * [ ] upload the final packages to `/server/prereleases` folder of the download server
 
