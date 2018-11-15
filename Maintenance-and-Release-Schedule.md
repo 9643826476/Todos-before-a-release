@@ -13,8 +13,8 @@
 #### Maintenance releases
 
 * maintenance releases are released every 6 weeks
-* next maintenance release: 2018-11-22
-* following maintenance release: 2019-01-03
+* next maintenance release: 2018-10-11
+* following maintenance release: 2018-11-22
 * end of life dates: release date of "major version + 2" plus two more point release (~12 weeks)
   * end of life for Nextcloud 13 would be release date of Nextcloud 15 + 12 weeks
 
