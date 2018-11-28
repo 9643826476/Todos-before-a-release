@@ -2,6 +2,7 @@
 
 |        | release date      | end of life      | current version         | next version
 |:------:|:------------------|-----------------:|------------------------:|---------------------------:
+| **16** | 2019-04-11        | Release of NC 18 | *-*                     | *16.0.0 (2019-04-11)*
 | **15** | 2018-12-06        | Release of NC 17 | *-*                     | *15.0.0 (2018-12-06)*
 | **14** | 2018-09-10        | Release of NC 16 | **14.0.4** (2018-11-22) | *14.0.5 (2019-01-10)*
 | **13** | 2018-02-06        | 2019-02          | **13.0.8** (2018-11-22) | *13.0.9 (2019-01-10)*
@@ -13,8 +14,8 @@
 #### Maintenance releases
 
 * maintenance releases are released every 6 weeks
-* next maintenance release: 2018-10-11
-* following maintenance release: 2018-11-22
+* next maintenance release: 2019-01-10
+* following maintenance release: 2019-02-21
 * end of life dates: release date of "major version + 2" plus two more point release (~12 weeks)
   * end of life for Nextcloud 13 would be release date of Nextcloud 15 + 12 weeks
 
@@ -26,6 +27,17 @@
 * RC 1: 2018-11-22
 * RC 2: 2018-11-29
 * Release: 2018-12-06
+
+#### Nextcloud 16
+
+* Feature freeze: 2019-02-22
+* Beta 1: 2018-02-28
+* Beta 2: 2018-03-07
+* Beta 3: 2018-03-14
+* Beta 4: 2018-03-21
+* RC 1: 2018-03-28
+* RC 2: 2018-04-04
+* Release: 2018-04-11
 
 ### ownCloud versions (before the fork)
 |          | release date   | end of life | current version         | next version
