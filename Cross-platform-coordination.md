@@ -26,5 +26,6 @@ Currently important features to get to parity:
 - / = not applicable
 
 TODO:
-- [x] Make the table into a markdown table and link the issues.
+- [x] Make the table into a markdown table
+- [ ] link the issues
 - [ ] If issues don’t exist for a point, create a central one in the server for central tracking (even if it’s already done in the server) as said above.
