@@ -7,13 +7,24 @@
 
 ## Cross-platform feature table
 Currently important features to get to parity:
-![](https://cloud.jancborchardt.net/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=375&a=true&file=Cross-platform%2520feature%2520table.jpg&t=JyizKE7tsQr9dXF&scalingup=0)
+
+|Feature|Server|Desktop|iOS|Android|
+|---|---|---|---|---|
+|unified timeline per file (activity, comments, versions|•••|✘|✘|✔|
+|comments|✔|✘|✘|✔|
+|versions & restore|✔|✘|✘|✔|
+|combined syncing & activity, for all files|/|✔|✘|✘|
+|updated sharing design|✔|•••|•••|•••|
+|add note to share|✔|✘|✘|✔|
+|multiple share links|✔|✘|✘|✘|
+|favorites, if possible sort up top|✔|✘|✔|✔|
+|single "shares" entry|✔|/|✔|✘|
 
 - ✔ = done
-- 🞄🞄🞄 = in progress
-- ❌ = to do
+- ••• = in progress
+- ✘ = to do
 - / = not applicable
 
 TODO:
-- [ ] Make the table into a markdown table and link the issues.
+- [x] Make the table into a markdown table and link the issues.
 - [ ] If issues don’t exist for a point, create a central one in the server for central tracking (even if it’s already done in the server) as said above.
