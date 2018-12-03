@@ -10,15 +10,15 @@ Currently important features to get to parity:
 
 |Feature|Server|Desktop|iOS|Android|
 |---|---|---|---|---|
-|unified timeline per file (activity, comments, versions|•••|✘|✘|✔|
-|comments|✔|✘|✘|✔|
-|versions & restore|✔|✘|✘|✔|
-|combined syncing & activity, for all files|/|✔|✘|✘|
-|updated sharing design|✔|•••|•••|•••|
-|add note to share|✔|✘|✘|✔|
-|multiple share links|✔|✘|✘|✘|
-|favorites, if possible sort up top|✔|✘|✔|✔|
-|single "shares" entry|✔|/|✔|✘|
+|[Unified timeline per file (activity, comments, versions)](https://github.com/nextcloud/server/issues/658)|•••|✘|✘|✔|
+|Comments|✔|✘|✘|✔|
+|Versions & restore|✔|✘|✘|✔|
+|Combined syncing & activity, in all file activity|/|✔|✘|✘|
+|Updated sharing design|✔|•••|•••|•••|
+|Add note to share|✔|✘|✘|✔|
+|Multiple share links|✔|✘|✘|✘|
+|Favorites, if possible sort up top|✔|✘|✔|✔|
+|Single "Shares" entry|✔|/|✔|✘|
 
 - ✔ = done
 - ••• = in progress
@@ -27,5 +27,5 @@ Currently important features to get to parity:
 
 TODO:
 - [x] Make the table into a markdown table
-- [ ] link the issues
+- [ ] Link the issues
 - [ ] If issues don’t exist for a point, create a central one in the server for central tracking (even if it’s already done in the server) as said above.
