@@ -14,9 +14,7 @@
 #### Maintenance releases
 
 * maintenance releases are released every 6 weeks
-* next maintenance release: 2019-01-10
-* following maintenance release: 2019-02-21
-* end of life dates: at least one year
+* end of life dates: at least one year after the release
 
 #### Nextcloud 15
 
