@@ -2,9 +2,9 @@
 
 |        | release date      | end of life      | current version         | next version
 |:------:|:------------------|-----------------:|------------------------:|---------------------------:
-| **16** | 2019-04-11        | Release of NC 18 | *-*                     | *16.0.0 (2019-04-11)*
-| **15** | 2018-12-06        | Release of NC 17 | *-*                     | *15.0.0 (2018-12-09)*
-| **14** | 2018-09-10        | Release of NC 16 | **14.0.4** (2018-11-22) | *14.0.5 (2019-01-10)*
+| **16** | 2019-04-11        | *-*              | *-*                     | *16.0.0 (2019-04-11)*
+| **15** | 2018-12-06        | 2019-12          | *-*                     | *15.0.0 (2018-12-09)*
+| **14** | 2018-09-10        | 2019-09          | **14.0.4** (2018-11-22) | *14.0.5 (2019-01-10)*
 | **13** | 2018-02-06        | 2019-02          | **13.0.8** (2018-11-22) | *13.0.9 (2019-01-10)*
 | **12** | 2017-05-22        | 2018-11          | **12.0.13** (2018-11-22)| **End of Life**
 | **11** | 2016-12-13        | 2018-03          | 11.0.8 (2018-03-15)     | **End of Life**
@@ -16,8 +16,7 @@
 * maintenance releases are released every 6 weeks
 * next maintenance release: 2019-01-10
 * following maintenance release: 2019-02-21
-* end of life dates: release date of "major version + 2" plus two more point release (~12 weeks)
-  * end of life for Nextcloud 13 would be release date of Nextcloud 15 + 12 weeks
+* end of life dates: at least one year
 
 #### Nextcloud 15
 
