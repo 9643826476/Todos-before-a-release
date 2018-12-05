@@ -39,6 +39,7 @@ Check list for a release (copy it to a ticket and then tick of the checkboxes):
 
 * [ ] update the milestones in all repos (use the [milestone updater](https://github.com/nextcloud/github_helper/tree/master/milestoneupdater) for this)
 * [ ] update app store releases (see [documentation](https://nextcloudappstore.readthedocs.io/en/latest/prodinstall.html#sync-nextcloud-releases-from-github))
+* [ ] update user content proxy of app store (see https://github.com/nextcloud/usercontent.apps.nextcloud.com)
 * [ ] update security scanner
 * [ ] update owncloud-migration config on update server
 * [ ] update installer script on download server (see [repo](https://github.com/nextcloud/web-installer))
