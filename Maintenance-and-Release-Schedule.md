@@ -1,4 +1,4 @@
-## Overview
+
 
 |        | release date      | end of life      | current version         | next version
 |:------:|:------------------|-----------------:|------------------------:|---------------------------:
@@ -11,12 +11,7 @@
 | **10** | 2016-08-25        | 2017-08          | 10.0.6 (2017-08-07)     | **End of Life**
 |  **9** | 2016-03-08        | 2017-04          | 9.0.58 (2017-04-24)     | **End of Life**
 
-#### Maintenance releases
-
-* maintenance releases are released every 6 weeks
-* end of life dates: at least one year after the release
-
-#### Nextcloud 15
+## Nextcloud 15
 
 * Feature freeze: 2018-11-01
 * Beta 1: 2018-11-08
@@ -26,7 +21,7 @@
 * RC 3: 2018-12-05
 * Release: 2018-12-09
 
-#### Nextcloud 16
+## Nextcloud 16
 
 * Feature freeze: 2019-02-22
 * Beta 1: 2018-02-28
@@ -37,18 +32,5 @@
 * RC 2: 2018-04-04
 * Release: 2018-04-11
 
-### ownCloud versions (before the fork)
-|          | release date   | end of life | current version         | next version
-|:--------:|:---------------|------------:|------------------------:|---------------------:
-| **9.0**  | 2016-03-08     | 2017-10     | 9.0.11 (2017-11-24)	    | **End of Life**
-| **8.2**  | 2015-10-20     | 2017-05     | 8.2.11 (2017-04-18)     | **End of Life**
-| **8.1**  | 2015-07-07     | 2017-02     | 8.1.12 (2017-02-02)     | **End of Life**
-| **8.0**  | 2015-02-09     | 2016-10     | 8.0.16 (2016-11-08)     | **End of Life**
-| **7.0**  | 2014-06-23     | 2016-05     | 7.0.15 (2016-05-12)     | **End of Life**
-| **6.0**  | 2013-12-11     | 2015-09     | 6.0.9 (2015-07-07)      | **End of Life**
-| **5.0**  | 2013-03-14     | 2015-03     | 5.0.19 (2015-03-11)     | **End of Life**
-| **4.5**  | 2012-10-10     | 2013-07     | 4.5.13 (2013-07-10)     | **End of Life**
-| **4.0**  | 2012-05-22     | 2013-07     | 4.0.16 (2013-07-06)     | **End of Life**
-| **3.0**  | 2012-01-31     | 2012-04     | 3.0.3 (2012-04-27)      | **End of Life**
-| **2.0**  | 2011-10-11     | 2012-01     | *-*                     | **End of Life**
-| **1.0**  | 2010-06-24     | 2011-10     | *-*                     | **End of Life**
+
+For more details about the planning check out the [documentation page](https://docs.nextcloud.com/server/stable/admin_manual/release_schedule.html).
