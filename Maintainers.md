@@ -52,6 +52,7 @@
 | [theming](https://github.com/nextcloud/server/tree/master/apps/theming) | [@juliushaertl] |
 | [updatenotification](https://github.com/nextcloud/server/tree/master/apps/updatenotification) | [@nickvergessen] |
 | [updater](https://github.com/nextcloud/updater) | [@LukasReschke] |
+| [user_external](https://github.com/nextcloud/user_external) | [@violoncelloCH] |
 | [user_ldap](https://github.com/nextcloud/server/tree/master/apps/user_ldap) | [@blizzz] |
 | [user_saml](https://github.com/nextcloud/user_saml) | [@LukasReschke] |
 | [vm](https://github.com/nextcloud/vm) | [@enoch85] |
@@ -78,6 +79,7 @@
 [@rullzer]: https://github.com/rullzer
 [@schiessle]: https://github.com/schiessle
 [@tomneedham]: https://github.com/tomneedham
+[@violoncelloCH]: https://github.com/violoncelloCH
 [@kyrofa]: https://github.com/kyrofa
 [@raghunayyar]: https://github.com/raghunayyar
 [@tcitworld]: https://github.com/tcitworld
