@@ -53,6 +53,10 @@ Let git use the pinentry app which comes with gpg4win
 ```bash
 $ git config --global gpg.program "c:/Program Files (x86)/GNU/GnuPG/gpg2.exe"
 ```
+if you use gpg4win version 3 use this file location/command instead:
+```bash
+$ git config --global gpg.program "c:/Program Files (x86)/GnuPG/bin/gpg.exe"
+```
 
 Tell git to always sign your commits:
 
