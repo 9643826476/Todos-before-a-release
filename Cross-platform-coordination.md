@@ -19,6 +19,7 @@ Currently important features to get to parity:
 |Multiple share links|✔|✘|✘|✘|
 |Favorites, if possible sort up top|✔|✘|✔|✔|
 |Single "Shares" entry|✔|/|✔|✘|
+|[Combine Notifications & Activity stream](https://github.com/nextcloud/server/issues/14662)|/|✔|✘|✘|
 
 - ✔ = done
 - ••• = in progress
