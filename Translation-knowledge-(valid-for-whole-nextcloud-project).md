@@ -114,6 +114,9 @@ Die sachliche Formulierung anwenden, nicht die persönliche:
 
 Beispiele ...
 
+Als Reviewer sollte man sich einen Übersicht über das Projekt und die Übersetzungen verschaffen.
+Schaut Euch die bisherigen Übersetzungen an und stellt Fragen im Forum.
+Die persönlichen Vorlieben dürfen nicht in den Vordergrund gestellt werden.
 
 ## Infos für Übersetzer
 
