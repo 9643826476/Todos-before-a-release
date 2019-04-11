@@ -43,6 +43,7 @@ Check list for a release (copy it to a ticket and then tick of the checkboxes):
 * [ ] update user content proxy of app store (see https://github.com/nextcloud/usercontent.apps.nextcloud.com)
 * [ ] update security scanner
 * [ ] update owncloud-migration config on update server
+* [ ] update install page on website
 * [ ] update installer script on download server (see [repo](https://github.com/nextcloud/web-installer))
 * [ ] check wikipedia pages for release information - update pages if necessary
 * [ ] check wikimedia content for outdated media e.g. screenshots
