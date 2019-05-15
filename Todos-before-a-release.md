@@ -47,6 +47,6 @@ Check list for a release (copy it to a ticket and then tick of the checkboxes):
 * [ ] update installer script on download server (see [repo](https://github.com/nextcloud/web-installer))
 * [ ] check wikipedia pages for release information - update pages if necessary
 * [ ] check wikimedia content for outdated media e.g. screenshots
-* [ ] on stable channel creation: update transifex-sync containers with new stable channels (translations & translations-app container)
-* [ ] on stable channel creation: update config-convert repo and transifex-documentation-sync container
+* [ ] on stable channel creation: update translation sync containers with new stable channels (translations & translations-app container)
+* [ ] on stable channel creation: update config-convert repo and translations-documentation-sync container
 ```
