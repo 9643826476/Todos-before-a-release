@@ -18,7 +18,7 @@ Currently important features to get to parity:
 |[Add note to share](https://github.com/nextcloud/server/issues/15751)|✔|✘|✘|✔|
 |[Multiple share links](https://github.com/nextcloud/server/issues/15752)|✔|✘|✘|✘|
 |Favorites, if possible sort up top|✔|✘|✔|✔|
-|Single "Shares" entry|✔|/|✔|✘|
+|Unified "Shares" entry|✔|/|✔|✔|
 |[Combine Notifications & Activity stream](https://github.com/nextcloud/server/issues/14662)|/|✔|✘|✘|
 
 - ✔ = done
