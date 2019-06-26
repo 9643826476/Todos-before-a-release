@@ -16,7 +16,7 @@ Currently important features to get to parity:
 |Combined syncing & activity, in all file activity|/|✔|✘|✘|
 |Updated sharing design|✔|•••|•••|•••|
 |[Add note to share](https://github.com/nextcloud/server/issues/15751)|✔|✘|✘|✔|
-|[Multiple share links](https://github.com/nextcloud/server/issues/15752)|✔|✘|✘|✘|
+|[Multiple share links](https://github.com/nextcloud/server/issues/15752)|✔|✔|✘|✘|
 |Favorites, if possible sort up top|✔|✘|✔|✔|
 |Unified "Shares" entry|✔|/|✔|✔|
 |[Combine Notifications & Activity stream](https://github.com/nextcloud/server/issues/14662)|/|✔|✘|✘|
