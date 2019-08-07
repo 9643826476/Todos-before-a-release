@@ -12,14 +12,14 @@
  
 ## Nextcloud 17
 
-* Feature freeze: 2019-07-05
-* Beta 1: 2019-07-18
-* Beta 2: 2019-07-25
-* Beta 3: 2019-08-01
-* Beta 4: 2019-08-08
-* RC 1: 2019-08-15
-* RC 2: 2019-08-22
-* Release: 2019-08-29
+* Feature freeze: 2019-08-09
+* Beta 1: 2019-08-15
+* Beta 2: 2019-08-22
+* Beta 3: 2019-08-29
+* Beta 4: 2019-09-05
+* RC 1: 2019-09-12
+* RC 2: 2019-09-19
+* Release: 2019-09-26
 
 
 For more details about the planning check out the [documentation page](https://docs.nextcloud.com/server/stable/admin_manual/release_schedule.html).
