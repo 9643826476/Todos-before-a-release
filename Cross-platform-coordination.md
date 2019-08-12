@@ -5,4 +5,4 @@
 - Mobile and desktop people can add the issue to their relevant project boards. (Issues can be assigned to multiple projects).
 - We use issue tags "[client: 🤖🍏 mobile](https://github.com/nextcloud/server/labels/client%3A%20%F0%9F%A4%96%F0%9F%8D%8F%20mobile)" and "[client: 💻 desktop](https://github.com/nextcloud/server/labels/client%3A%20%F0%9F%92%BB%20desktop)" in the server repository these cross-platform issues.
 
-All issues are labeled "overview" and "client: :computer: desktop  client: :robot::green_apple: mobile" and can be found [here](https://github.com/nextcloud/server/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22client%3A+%F0%9F%A4%96%F0%9F%8D%8F+mobile%22+label%3A%22client%3A+%F0%9F%92%BB+desktop%22)
+All issues are labeled "overview" and "client: :computer: desktop  client: and :robot::green_apple: mobile" and can be found [here](https://github.com/nextcloud/server/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22client%3A+%F0%9F%A4%96%F0%9F%8D%8F+mobile%22+label%3A%22client%3A+%F0%9F%92%BB+desktop%22)
